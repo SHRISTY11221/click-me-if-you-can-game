@@ -1,0 +1,40 @@
+Click Me If You Can – Reaction Speed Game
+
+A fast-paced visual reaction game where players must quickly identify and click the one red square among green ones.
+The faster and more accurately you react, the higher your score.
+
+
+
+How to play
+
+Click Play
+
+A grid of green squares appears
+
+One square turns red
+
+Click the red square as fast as you can
+
+Score increases based on speed
+
+Clicking a green square gives a penalty
+
+If you do nothing, the round auto-fails
+
+Press STOP anytime to view results
+
+
+
+
+Game Rules Implemented
+Odd One Out =Exactly 1 red square appears every round
+
+Correct click=Click the odd one→ score increases
+
+Wrong click= Click green → score decreases
+
+Reaction time=Faster click → more points
+
+Timeout=No click in time → counts as wrong
+
+Accuracy=Tracks correct vs total attempts
